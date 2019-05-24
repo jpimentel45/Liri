@@ -40,6 +40,7 @@ function input(arg, v) {
 
 //Spotify Funk
 function songQuery(v) {
+  //let p = p.splice([3]).join(" ");
   //default
   if (v === undefined) {
     v = "The Sign";
@@ -90,7 +91,7 @@ function movieQuery(v) {
     fs.appendFileSync("log.txt", "It's on Netflix!\n");
   }
   //split everytime there is an empty space
-  var dataArr = v.split(" ").join("+");
+  var dataArr = p.splice([3]).join("+");
   // Then run a request with axios to the OMDB API with the movie specified
   var queryUrl = `http://www.omdbapi.com/?t=${dataArr}&y=&plot=short&apikey=trilogy`;
   // helps debug against actual URL.

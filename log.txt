@@ -1721,3 +1721,1062 @@ artist: Drake
 song: null
 preview url: null
 album: Thank Me Later
+NEW QUERY
+0
+artist: The Marías
+song: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Superclean, Vol. II
+NEW QUERY
+1
+artist: Shenandoah
+song: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Extra Mile
+NEW QUERY
+2
+artist: Dead Kennedys
+song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: DK 40 (Remastered)
+NEW QUERY
+3
+artist: Idina Menzel
+song: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: RENT (Original Motion Picture Soundtrack)
+NEW QUERY
+4
+artist: Sting
+song: null
+preview url: null
+album: The Dream Of The Blue Turtles
+NEW QUERY
+5
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+6
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+7
+artist: Brian D'Arcy James
+song: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon: The Broadway Lullaby Album
+NEW QUERY
+8
+artist: YG Chaser
+song: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Money Over Matters
+NEW QUERY
+9
+artist: Piotr Musiał
+song: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)
+NEW QUERY
+0
+artist: The Marías
+song: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Superclean, Vol. II
+NEW QUERY
+1
+artist: Shenandoah
+song: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Extra Mile
+NEW QUERY
+2
+artist: Dead Kennedys
+song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: DK 40 (Remastered)
+NEW QUERY
+3
+artist: Idina Menzel
+song: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: RENT (Original Motion Picture Soundtrack)
+NEW QUERY
+4
+artist: Sting
+song: null
+preview url: null
+album: The Dream Of The Blue Turtles
+NEW QUERY
+5
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+6
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+7
+artist: Brian D'Arcy James
+song: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon: The Broadway Lullaby Album
+NEW QUERY
+8
+artist: YG Chaser
+song: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Money Over Matters
+NEW QUERY
+9
+artist: Piotr Musiał
+song: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+Movie Title: Mr. Nobody
+Release Year: 26 Sep 2013
+IMBD Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Movie Title: Transformers
+Release Year: 03 Jul 2007
+IMBD Rating: 7.1
+Rotten Tomatoes Rating: 57%
+Country Produced: USA
+Language: English, SpanishPlot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
+Movie Title: Harry Potter and the Deathly Hallows: Part 2
+Release Year: 15 Jul 2011
+IMBD Rating: 8.1
+Rotten Tomatoes Rating: 96%
+Country Produced: USA, UK
+Language: EnglishPlot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+Venue: [ips]
+Location: Berlin-altglienicke, , Germany
+Date: 06/10/2019
+Venue: Villenpark Rheinperle
+Location: Villenstrasse 3, , Germany
+Date: 08/01/2019
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, TX, United States
+Date: 09/04/2019
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, TX, United States
+Date: 09/04/2019
+Movie Title: Harry Potter and the Deathly Hallows: Part 2
+Release Year: 15 Jul 2011
+IMBD Rating: 8.1
+Rotten Tomatoes Rating: 96%
+Country Produced: USA, UK
+Language: EnglishPlot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+NEW QUERY
+0
+artist: The Marías
+song: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Superclean, Vol. II
+NEW QUERY
+1
+artist: Shenandoah
+song: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Extra Mile
+NEW QUERY
+2
+artist: Dead Kennedys
+song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: DK 40 (Remastered)
+NEW QUERY
+3
+artist: Idina Menzel
+song: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: RENT (Original Motion Picture Soundtrack)
+NEW QUERY
+4
+artist: Sting
+song: null
+preview url: null
+album: The Dream Of The Blue Turtles
+NEW QUERY
+5
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+6
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+7
+artist: Brian D'Arcy James
+song: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon: The Broadway Lullaby Album
+NEW QUERY
+8
+artist: YG Chaser
+song: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Money Over Matters
+NEW QUERY
+9
+artist: Piotr Musiał
+song: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)
+NEW QUERY
+0
+artist: The Marías
+song: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Superclean, Vol. II
+NEW QUERY
+1
+artist: Shenandoah
+song: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Extra Mile
+NEW QUERY
+2
+artist: Dead Kennedys
+song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: DK 40 (Remastered)
+NEW QUERY
+3
+artist: Idina Menzel
+song: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: RENT (Original Motion Picture Soundtrack)
+NEW QUERY
+4
+artist: Sting
+song: null
+preview url: null
+album: The Dream Of The Blue Turtles
+NEW QUERY
+5
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+6
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+7
+artist: Brian D'Arcy James
+song: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon: The Broadway Lullaby Album
+NEW QUERY
+8
+artist: YG Chaser
+song: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Money Over Matters
+NEW QUERY
+9
+artist: Piotr Musiał
+song: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)
+NEW QUERY
+0
+artist: The Marías
+song: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/307b644c8734f55074da7928626a4561022ac7cf?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Superclean, Vol. II
+NEW QUERY
+1
+artist: Shenandoah
+song: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/102b6e946a3a2d85e8695aaa6d246012d47b17a4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Extra Mile
+NEW QUERY
+2
+artist: Dead Kennedys
+song: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3d9679dc8f0c5d0213d10f859fc5fb25ac50ab7f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: DK 40 (Remastered)
+NEW QUERY
+3
+artist: Idina Menzel
+song: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b26ec401569d3f1ca9a3e4b1434003473353c0c4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: RENT (Original Motion Picture Soundtrack)
+NEW QUERY
+4
+artist: Sting
+song: null
+preview url: null
+album: The Dream Of The Blue Turtles
+NEW QUERY
+5
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/848301f0ed2732a6897932c606a206ec337c3404?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+6
+artist: The Icarus Account
+song: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/414d996dbaf577c281d981faee1581086907a69b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon
+NEW QUERY
+7
+artist: Brian D'Arcy James
+song: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8b116e7bb9d2f6e8d0782e5385249308d86bc6cc?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Over the Moon: The Broadway Lullaby Album
+NEW QUERY
+8
+artist: YG Chaser
+song: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/3c66eab8760bfb712ea03e1f7feccc898e501746?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Money Over Matters
+NEW QUERY
+9
+artist: Piotr Musiał
+song: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c011e65b8fa943c99e1dac08d7e3beb7c2661d0a?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+Movie Title: Mr. Nobody
+Release Year: 26 Sep 2013
+IMBD Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, MohawkPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+NEW QUERY
+0
+artist: The Chainsmokers
+song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+album: World War Joy...Do You Mean
+NEW QUERY
+1
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Harry Styles
+NEW QUERY
+2
+artist: Lil Wayne
+song: null
+preview url: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+NEW QUERY
+3
+artist: Ty Dolla $ign
+song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+NEW QUERY
+4
+artist: Jeremih
+song: null
+preview url: null
+album: Late Nights: The Album
+NEW QUERY
+5
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Sign of the Times
+NEW QUERY
+6
+artist: Jeremih
+song: null
+preview url: null
+album: The Light
+NEW QUERY
+7
+artist: Ace of Base
+song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Sign (US Album) [Remastered]
+NEW QUERY
+8
+artist: Mac Miller
+song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Divine Feminine
+NEW QUERY
+9
+artist: Quality Control
+song: null
+preview url: null
+album: Quality Control: Control The Streets Volume 1
+Movie Title: Seed of Chucky
+Release Year: 12 Nov 2004
+IMBD Rating: 4.9
+Rotten Tomatoes Rating: 33%
+Country Produced: Romania, USA, UK
+Language: English, JapanesePlot: Chucky and Tiffany are resurrected by their innocent son, Glen, and hit Hollywood, where a movie depicting the killer dolls' murder spree is underway.
+Actors: Brad Dourif, Jennifer Tilly, Billy Boyd, Redman
+NEW QUERY
+0
+artist: The Chainsmokers
+song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+album: World War Joy...Do You Mean
+NEW QUERY
+1
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Harry Styles
+NEW QUERY
+2
+artist: Lil Wayne
+song: null
+preview url: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+NEW QUERY
+3
+artist: Ty Dolla $ign
+song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+NEW QUERY
+4
+artist: Jeremih
+song: null
+preview url: null
+album: Late Nights: The Album
+NEW QUERY
+5
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Sign of the Times
+NEW QUERY
+6
+artist: Jeremih
+song: null
+preview url: null
+album: The Light
+NEW QUERY
+7
+artist: Ace of Base
+song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Sign (US Album) [Remastered]
+NEW QUERY
+8
+artist: Mac Miller
+song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Divine Feminine
+NEW QUERY
+9
+artist: Quality Control
+song: null
+preview url: null
+album: Quality Control: Control The Streets Volume 1
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+NEW QUERY
+0
+artist: The Chainsmokers
+song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+album: World War Joy...Do You Mean
+NEW QUERY
+1
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Harry Styles
+NEW QUERY
+2
+artist: Lil Wayne
+song: null
+preview url: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+NEW QUERY
+3
+artist: Ty Dolla $ign
+song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+NEW QUERY
+4
+artist: Jeremih
+song: null
+preview url: null
+album: Late Nights: The Album
+NEW QUERY
+5
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Sign of the Times
+NEW QUERY
+6
+artist: Jeremih
+song: null
+preview url: null
+album: The Light
+NEW QUERY
+7
+artist: Ace of Base
+song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Sign (US Album) [Remastered]
+NEW QUERY
+8
+artist: Mac Miller
+song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Divine Feminine
+NEW QUERY
+9
+artist: Quality Control
+song: null
+preview url: null
+album: Quality Control: Control The Streets Volume 1
+NEW QUERY
+0
+artist: $uicideBoy$
+song: null
+preview url: null
+album: LIVE FAST DIE WHENEVER
+NEW QUERY
+1
+artist: The Weeknd
+song: null
+preview url: null
+album: Trilogy
+NEW QUERY
+2
+artist: Regina Spektor
+song: https://p.scdn.co/mp3-preview/fc3b8a6df6f77d49c49ed2a762abd8f15d6b94e6?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/fc3b8a6df6f77d49c49ed2a762abd8f15d6b94e6?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Far
+NEW QUERY
+3
+artist: Lukewarm
+song: https://p.scdn.co/mp3-preview/258d60ac5c773d33994639e0e973061bf9ef9fc3?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/258d60ac5c773d33994639e0e973061bf9ef9fc3?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Two Little Birds
+NEW QUERY
+4
+artist: Drake
+song: null
+preview url: null
+album: Two Birds, One Stone
+NEW QUERY
+5
+artist: Rick Ross
+song: https://p.scdn.co/mp3-preview/a00a03181f49f0449695238a0b16ec4b73b1cce4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/a00a03181f49f0449695238a0b16ec4b73b1cce4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: MMG Presents: Self Made, Vol. 2 (Deluxe Version)
+NEW QUERY
+6
+artist: Jez Dior
+song: https://p.scdn.co/mp3-preview/b8302d7e4f47e951112789b54fbafa2720151440?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b8302d7e4f47e951112789b54fbafa2720151440?cid=bbb91daee18d4d268ce4caf663d9d452
+album: 2 Birds
+NEW QUERY
+7
+artist: The Weeknd
+song: null
+preview url: null
+album: Trilogy
+NEW QUERY
+8
+artist: KSI
+song: null
+preview url: null
+album: Disstracktions - EP
+NEW QUERY
+9
+artist: The Icicle Works
+song: https://p.scdn.co/mp3-preview/ccba6687f642f3366f3dcf766bbf8eb79608c1ec?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/ccba6687f642f3366f3dcf766bbf8eb79608c1ec?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Dance Vault Mixes - Whisper To A Scream (Birds Fly)
+Movie Title: Scary Movie
+Release Year: 07 Jul 2000
+IMBD Rating: 6.2
+Rotten Tomatoes Rating: 53%
+Country Produced: USA
+Language: EnglishPlot: A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.
+Actors: Carmen Electra, Dave Sheridan, Frank B. Moore, Giacomo Baessato
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, TX, United States
+Date: 09/04/2019
+NEW QUERY
+0
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Hits--Chapter One
+NEW QUERY
+1
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Millennium
+NEW QUERY
+2
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way (Reimagined)
+NEW QUERY
+3
+artist: Anthem Lights
+song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Covers Part IV
+NEW QUERY
+4
+artist: Mick Jensen
+song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way
+NEW QUERY
+5
+artist: Jess and Gabriel
+song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Under the Covers, Vol. 3
+NEW QUERY
+6
+artist: Tyler and Mark
+song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Beautiful Dreams
+NEW QUERY
+7
+artist: "Weird Al" Yankovic
+song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Poodle Hat
+NEW QUERY
+8
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: 90 Sweet 90s Hits!
+NEW QUERY
+9
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+album: NKOTBSB
+NEW QUERY
+0
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Hits--Chapter One
+NEW QUERY
+1
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Millennium
+NEW QUERY
+2
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way (Reimagined)
+NEW QUERY
+3
+artist: Anthem Lights
+song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Covers Part IV
+NEW QUERY
+4
+artist: Mick Jensen
+song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way
+NEW QUERY
+5
+artist: Jess and Gabriel
+song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Under the Covers, Vol. 3
+NEW QUERY
+6
+artist: Tyler and Mark
+song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Beautiful Dreams
+NEW QUERY
+7
+artist: "Weird Al" Yankovic
+song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Poodle Hat
+NEW QUERY
+8
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: 90 Sweet 90s Hits!
+NEW QUERY
+9
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+album: NKOTBSB
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, TX, United States
+Date: 09/04/2019
+Movie Title: Scary Movie
+Release Year: 07 Jul 2000
+IMBD Rating: 6.2
+Rotten Tomatoes Rating: 53%
+Country Produced: USA
+Language: EnglishPlot: A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.
+Actors: Carmen Electra, Dave Sheridan, Frank B. Moore, Giacomo Baessato
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+NEW QUERY
+0
+artist: Billie Eilish
+song: null
+preview url: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+NEW QUERY
+1
+artist: Ariana Grande
+song: null
+preview url: null
+album: Sweetener
+NEW QUERY
+2
+artist: Bebe Rexha
+song: https://p.scdn.co/mp3-preview/8965aca26c5af239f57cb6ec1570db1fd8be00f1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/8965aca26c5af239f57cb6ec1570db1fd8be00f1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: All Your Fault: Pt. 2
+NEW QUERY
+3
+artist: Kodak Black
+song: https://p.scdn.co/mp3-preview/6ccc75509be729ffb01b1df3a8183e4e88dc6303?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/6ccc75509be729ffb01b1df3a8183e4e88dc6303?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Dying To Live
+NEW QUERY
+4
+artist: Ellie Goulding
+song: null
+preview url: null
+album: Close To Me (feat. Swae Lee)
+NEW QUERY
+5
+artist: MAX
+song: https://p.scdn.co/mp3-preview/62452b94cb148f412fc34bd965a5a13ea42970f7?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/62452b94cb148f412fc34bd965a5a13ea42970f7?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Love Me Less (feat. Quinn XCII)
+NEW QUERY
+6
+artist: YG
+song: null
+preview url: null
+album: STAY DANGEROUS
+NEW QUERY
+7
+artist: Mabel
+song: null
+preview url: null
+album: Ivy To Roses (Mixtape)
+NEW QUERY
+8
+artist: Dan + Shay
+song: https://p.scdn.co/mp3-preview/c88832cc96e69fe7c7b1310fe7922ceddbe15902?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c88832cc96e69fe7c7b1310fe7922ceddbe15902?cid=bbb91daee18d4d268ce4caf663d9d452
+album: All To Myself
+NEW QUERY
+9
+artist: Lil Uzi Vert
+song: https://p.scdn.co/mp3-preview/7add10ee576e9017030c09aa6d8bcaf682714859?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/7add10ee576e9017030c09aa6d8bcaf682714859?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Luv Is Rage 2
+NEW QUERY
+0
+artist: The Chainsmokers
+song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+album: World War Joy...Do You Mean
+NEW QUERY
+1
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Harry Styles
+NEW QUERY
+2
+artist: Lil Wayne
+song: null
+preview url: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+NEW QUERY
+3
+artist: Ty Dolla $ign
+song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+NEW QUERY
+4
+artist: Jeremih
+song: null
+preview url: null
+album: Late Nights: The Album
+NEW QUERY
+5
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Sign of the Times
+NEW QUERY
+6
+artist: Jeremih
+song: null
+preview url: null
+album: The Light
+NEW QUERY
+7
+artist: Ace of Base
+song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Sign (US Album) [Remastered]
+NEW QUERY
+8
+artist: Mac Miller
+song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Divine Feminine
+NEW QUERY
+9
+artist: Quality Control
+song: null
+preview url: null
+album: Quality Control: Control The Streets Volume 1
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, TX, United States
+Date: 09/04/2019
+Venue: All Points East
+Location: London, , United Kingdom
+Date: 05/26/2019
+NEW QUERY
+0
+artist: The Chainsmokers
+song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=bbb91daee18d4d268ce4caf663d9d452
+album: World War Joy...Do You Mean
+NEW QUERY
+1
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Harry Styles
+NEW QUERY
+2
+artist: Lil Wayne
+song: null
+preview url: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+NEW QUERY
+3
+artist: Ty Dolla $ign
+song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+NEW QUERY
+4
+artist: Jeremih
+song: null
+preview url: null
+album: Late Nights: The Album
+NEW QUERY
+5
+artist: Harry Styles
+song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Sign of the Times
+NEW QUERY
+6
+artist: Jeremih
+song: null
+preview url: null
+album: The Light
+NEW QUERY
+7
+artist: Ace of Base
+song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Sign (US Album) [Remastered]
+NEW QUERY
+8
+artist: Mac Miller
+song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Divine Feminine
+NEW QUERY
+9
+artist: Quality Control
+song: null
+preview url: null
+album: Quality Control: Control The Streets Volume 1
+NEW QUERY
+0
+artist: Lil Peep
+song: https://p.scdn.co/mp3-preview/2798c8f88316e54813b02e78803b9f44bf204b05?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/2798c8f88316e54813b02e78803b9f44bf204b05?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Come Over When You're Sober, Pt. 2
+NEW QUERY
+1
+artist: James Arthur
+song: https://p.scdn.co/mp3-preview/07122d8ecd5fbec4e57fab791d86df8e9e5aaa82?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/07122d8ecd5fbec4e57fab791d86df8e9e5aaa82?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Falling like the Stars
+NEW QUERY
+2
+artist: Peachy!
+song: https://p.scdn.co/mp3-preview/02760bb3822c68ec6b0e63bd45a42a9ee3b1a9d7?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/02760bb3822c68ec6b0e63bd45a42a9ee3b1a9d7?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Falling for U
+NEW QUERY
+3
+artist: Haley Reinhart
+song: https://p.scdn.co/mp3-preview/de4980f22292880edbd6a69c62d4e8a9a1e0207b?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/de4980f22292880edbd6a69c62d4e8a9a1e0207b?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Better
+NEW QUERY
+4
+artist: Elvis Presley
+song: https://p.scdn.co/mp3-preview/994ebd7f49e4e935df56d450b0c12d8bad8bb9f4?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/994ebd7f49e4e935df56d450b0c12d8bad8bb9f4?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Blue Hawaii
+NEW QUERY
+5
+artist: Trevor Daniel
+song: https://p.scdn.co/mp3-preview/dac6a7bd1f1333d17afe8c12b71ee11e3c233efd?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/dac6a7bd1f1333d17afe8c12b71ee11e3c233efd?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Falling
+NEW QUERY
+6
+artist: Kina Grannis
+song: https://p.scdn.co/mp3-preview/7485a8fc178c39d5626ecad00644b000b1fc004c?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/7485a8fc178c39d5626ecad00644b000b1fc004c?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Crazy Rich Asians (Original Motion Picture Soundtrack)
+NEW QUERY
+7
+artist: Korn
+song: https://p.scdn.co/mp3-preview/d6841c6cc6d6871bba3e63e78384f49e0d8bbb89?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/d6841c6cc6d6871bba3e63e78384f49e0d8bbb89?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Issues
+NEW QUERY
+8
+artist: Iration
+song: https://p.scdn.co/mp3-preview/c4fc75cc66d4b93f01c221c10019c8b278390ce8?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/c4fc75cc66d4b93f01c221c10019c8b278390ce8?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Time Bomb
+NEW QUERY
+9
+artist: Cheat Codes
+song: https://p.scdn.co/mp3-preview/fb10fee52b69a63486b074766cbeb0f3b59baf31?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/fb10fee52b69a63486b074766cbeb0f3b59baf31?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Feeling of Falling
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+Movie Title: Scary Movie 2
+Release Year: 04 Jul 2001
+IMBD Rating: 5.3
+Rotten Tomatoes Rating: 15%
+Country Produced: USA, Canada
+Language: EnglishPlot: Four teens are tricked by their professor into visiting a haunted house for a school project.
+Actors: Antony Acker, Mark Barrett, Richard Bellos, Suzanne Bianqui
+NEW QUERY
+0
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=bbb91daee18d4d268ce4caf663d9d452
+album: The Hits--Chapter One
+NEW QUERY
+1
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Millennium
+NEW QUERY
+2
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way (Reimagined)
+NEW QUERY
+3
+artist: Anthem Lights
+song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Covers Part IV
+NEW QUERY
+4
+artist: Mick Jensen
+song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=bbb91daee18d4d268ce4caf663d9d452
+album: I Want It That Way
+NEW QUERY
+5
+artist: Jess and Gabriel
+song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Under the Covers, Vol. 3
+NEW QUERY
+6
+artist: Tyler and Mark
+song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Beautiful Dreams
+NEW QUERY
+7
+artist: "Weird Al" Yankovic
+song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=bbb91daee18d4d268ce4caf663d9d452
+album: Poodle Hat
+NEW QUERY
+8
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=bbb91daee18d4d268ce4caf663d9d452
+album: 90 Sweet 90s Hits!
+NEW QUERY
+9
+artist: Backstreet Boys
+song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+preview url: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=bbb91daee18d4d268ce4caf663d9d452
+album: NKOTBSB
