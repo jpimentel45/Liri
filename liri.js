@@ -11,7 +11,7 @@ moment().format();
 //arguments
 var p = process.argv;
 var arg = p[2];
-var v = p[3];
+const v = p[3];
 
 //execute
 input(arg, v);
@@ -40,13 +40,14 @@ function input(arg, v) {
 
 //Spotify Funk
 function songQuery(v) {
-  //let p = p.splice([3]).join(" ");
+  let a = p.splice([3]).join("+");
+
   //default
   if (v === undefined) {
     v = "The Sign";
   }
   spotify
-    .search({ type: "track", query: v, limit: 10 })
+    .search({ type: "track", query: [v, a], limit: 10 })
     .then(function(response) {
       //console.log(response.tracks);
       let song = response.tracks.items;
@@ -61,7 +62,7 @@ function songQuery(v) {
         );
         console.log(song[i].name);
         fs.appendFileSync("log.txt", "song: " + song[i].preview_url + "\n");
-        console.log(song[i].name);
+        console.log(song[i].preview_url);
         fs.appendFileSync(
           "log.txt",
           "preview url: " + song[i].preview_url + "\n"
@@ -95,12 +96,13 @@ function movieQuery(v) {
   // Then run a request with axios to the OMDB API with the movie specified
   var queryUrl = `http://www.omdbapi.com/?t=${dataArr}&y=&plot=short&apikey=trilogy`;
   // helps debug against actual URL.
-  console.log(queryUrl);
+  //console.log(queryUrl);
   axios
     .get(queryUrl)
     .then(function(response) {
       let mData = response.data;
       //console.log(mData);
+      // for (i = 0; i < mData.length; i++) {
       console.log("Movie Title: " + mData.Title);
       console.log("Release Year: " + mData.Released);
       console.log("IMBD Rating: " + mData.imdbRating);
@@ -120,6 +122,7 @@ function movieQuery(v) {
       fs.appendFileSync("log.txt", "Language: " + mData.Language) + "\n";
       fs.appendFileSync("log.txt", "Plot: " + mData.Plot + "\n");
       fs.appendFileSync("log.txt", "Actors: " + mData.Actors + "\n");
+      //}
     })
     // Then log the Release Year for the movie
 
