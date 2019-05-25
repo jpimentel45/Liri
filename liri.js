@@ -52,7 +52,10 @@ function songQuery(v) {
       //console.log(response.tracks);
       let song = response.tracks.items;
       for (i = 0; i < song.length; i++) {
-        fs.appendFileSync("log.txt", "NEW QUERY\n");
+        fs.appendFileSync(
+          "log.txt",
+          "👻👽🐱‍🚀👾✨NEW SPOTIFY QUERY✨👾🐱‍🚀👽👻\n"
+        );
         console.log(i);
         fs.appendFileSync("log.txt", i + "\n");
         console.log(song[i].artists[0].name);
@@ -61,7 +64,7 @@ function songQuery(v) {
           "artist: " + song[i].artists[0].name + "\n"
         );
         console.log(song[i].name);
-        fs.appendFileSync("log.txt", "song: " + song[i].preview_url + "\n");
+        fs.appendFileSync("log.txt", "song: " + song[i].name + "\n");
         console.log(song[i].preview_url);
         fs.appendFileSync(
           "log.txt",
@@ -111,6 +114,10 @@ function movieQuery(v) {
       console.log("Language: " + mData.Language);
       console.log("Plot: " + mData.Plot);
       console.log("Actors: " + mData.Actors);
+      fs.appendFileSync(
+        "log.txt",
+        "👻👽🐱‍🚀👾✨NEW MOVIE QUERY✨👾🐱‍🚀👽👻\n"
+      );
       fs.appendFileSync("log.txt", "Movie Title: " + mData.Title + "\n");
       fs.appendFileSync("log.txt", "Release Year: " + mData.Released + "\n");
       fs.appendFileSync("log.txt", "IMBD Rating: " + mData.imdbRating + "\n");
@@ -157,6 +164,7 @@ function bandQuery(v) {
   axios.get(queryUrl).then(function(response) {
     //console.log(response.data);
     let fu = response.data[0];
+    fs.appendFileSync("log.txt", "👻👽🐱‍🚀👾✨NEW BAND QUERY✨👾🐱‍🚀👽👻\n");
     console.log("Venue: " + fu.venue.name);
     fs.appendFileSync("log.txt", "Venue: " + fu.venue.name + "\n");
     let city = fu.venue.city;
