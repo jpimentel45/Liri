@@ -156,7 +156,7 @@ function movieQuery(v) {
 }
 
 function bandQuery(v) {
-  let dataArr = v.split(" ").join("+");
+  let dataArr = p.splice([3]).join("+");
   let queryUrl = `https://rest.bandsintown.com/artists/${dataArr}/events?app_id=${
     keys.spotify.bandsintown
   }`;
@@ -165,6 +165,7 @@ function bandQuery(v) {
     //console.log(response.data);
     let fu = response.data[0];
     fs.appendFileSync("log.txt", "👻👽🐱‍🚀👾✨NEW BAND QUERY✨👾🐱‍🚀👽👻\n");
+    fs.appendFileSync("log.txt", "Lineup: " + fu.lineup[0] + "\n");
     console.log("Venue: " + fu.venue.name);
     fs.appendFileSync("log.txt", "Venue: " + fu.venue.name + "\n");
     let city = fu.venue.city;
