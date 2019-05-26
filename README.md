@@ -5,7 +5,8 @@ Liri takes in a function and parameter, and will return data. The app has four f
 2. movie-this 
 3. concert-this
 4. do-what-it-says
-##Running commands
+
+## Running commands
 1. spotify-this-song
 - Open Terminal
 - CD into folder containing liri.js
